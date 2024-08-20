@@ -45,6 +45,8 @@ const Weatherpage = () => {
                         placeholder="Enter city name"
 
                     />
+                </div>
+                <div>
                     <button
                         onClick={getWeather}
                     >
